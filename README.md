@@ -1,4 +1,4 @@
-### Hi there, I'm Agus - aka [Pedhot][website] 👋
+### Hi there, I'm Agus - aka *Pedhot*👋
 
 ## I'm a Student.
 
