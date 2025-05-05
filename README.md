@@ -22,4 +22,5 @@
 [![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedhot-Dev&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Pedhot-Dev/)
 
 **Achievements:**
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pedhot-Dev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
