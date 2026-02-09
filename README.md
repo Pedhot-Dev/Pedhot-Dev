@@ -1,26 +1,89 @@
-### Hi everyone 👋
+## Hi everyone 👋  
+I'm **Agus Setyawan** — a beginner PHP developer who enjoys learning by building things and breaking them along the way.
 
+I focus mainly on **PHP backend development**, exploring frameworks, tools, and clean coding concepts step by step.  
+Still learning, still growing, and definitely still debugging 😄
 
-**Languages and Tools:**
+---
 
-[<code><img alt="Php" height="20px" src="https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png"/></code>](https://www.php.net/)
-[<code><img alt="PocketMine" height="20px" src="https://avatars3.githubusercontent.com/u/3150836?s=200&v=4"/></code>](https://github.com/pmmp/PocketMine-MP)
-[<code><img alt="Poggit" height="20px" src="https://avatars2.githubusercontent.com/u/22427965?s=400&u=ab2083244b63dc147f5841cd9e5399634a8b0853&v=4"/></code>](https://poggit.pmmp.io)
+### 🚀 About Me
+- 🐘 Beginner **PHP Programmer**
+- 🌱 Learning **Laravel** & backend fundamentals
+- 🧱 Developing plugins with **PocketMine-MP**
+- 🧠 Interested in clean code, OOP, and simple architecture
+- 💻 Daily driver: **JetBrains PhpStorm**
+- 📦 Loves experimenting with small libraries & side projects
 
-**Learning Site:**
+---
 
-[<code><img alt="W3schools" height="20px" src="https://lh3.googleusercontent.com/i-ij7KM2pFUUpFE31QAUDXg5mzGFNbm16S4tjmg2ZyuhCGLgNJ8oXJRbq7ysh6LoZg"/></code>](https://www.w3schools.com)
-[<code><img alt="Codecademy" height="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0MxkiHXuMHk1yjEzqcKyJgiVviNPj8j8Azw&usqp=CAU"/></code>](https://www.codecademy.com)
-[<code><img alt="Stackoverflow" height="20px" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"/></code>](https://stackoverflow.com/)
+### 🧰 Languages & Tools
+<p align="left">
+  <a href="https://www.php.net/">
+    <img src="https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png" height="28"/>
+  </a>
+  <a href="https://laravel.com/">
+    <img src="https://laravel.com/img/logomark.min.svg" height="28"/>
+  </a>
+  <a href="https://github.com/pmmp/PocketMine-MP">
+    <img src="https://avatars.githubusercontent.com/u/3150836?s=200&v=4" height="28"/>
+  </a>
+  <a href="https://www.jetbrains.com/phpstorm/">
+    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PhpStorm_icon.png" height="28"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="28"/>
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="28"/>
+  </a>
+</p>
 
-**My Stats:**
+---
 
-[![My Stats](https://github-readme-stats.vercel.app//api?username=Pedhot-Dev&show_icons=true&count_private=true&hide_title=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Pedhot-Dev/)
+### 📚 Learning Resources I Use
+<p align="left">
+  <a href="https://www.php.net/docs.php">
+    <img src="https://www.php.net/images/logos/php-logo.svg" height="24"/>
+  </a>
+  <a href="https://laravel.com/docs">
+    <img src="https://laravel.com/img/logomark.min.svg" height="24"/>
+  </a>
+  <a href="https://poggit.pmmp.io/">
+    <img src="https://avatars.githubusercontent.com/u/22427965?s=200&v=4" height="24"/>
+  </a>
+  <a href="https://stackoverflow.com/">
+    <img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196" height="24"/>
+  </a>
+  <a href="https://www.w3schools.com/">
+    <img src="https://www.w3schools.com/favicon.ico" height="24"/>
+  </a>
+</p>
 
-**My Langs:**
+---
 
-[![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedhot-Dev&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Pedhot-Dev/)
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pedhot-Dev&show_icons=true&count_private=true&hide_title=true&theme=tokyonight" />
+</p>
 
-**Achievements:**
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pedhot-Dev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+### 🧩 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedhot-Dev&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🎯 Goals
+- Understand **PHP deeply**, not just copy-paste solutions
+- Write cleaner and more maintainable code
+- Build useful **PocketMine-MP plugins**
+- Contribute to open-source projects
+- Keep learning consistently
+
+---
+
+Thanks for visiting my profile ✨  
+Feel free to explore, learn together, or just say hi.  
+Happy coding 🚀
